@@ -41,7 +41,7 @@ Complete KNIME workflow containing data preprocessing, feature engineering, chro
 
 \- KNIME version: 5.11.0 / 5.12.0  
 \- Required extensions: KNIME H2O Machine Learning Integration / XGBoost Integration  
-\- 42 for all random seeds: e.g. Root88&297 (XGboost Tree Ensemble Learner) / Root 590 (H2O Isolation Forest Learner) /  / Root514&711&730&734&739&741 (Logistic Regression Learner)
+\- 42 for all random seeds: e.g. Root88&297 (XGboost Tree Ensemble Learner) / Root 590 (H2O Isolation Forest Learner) / Root514&711&730&734&739&741 (Logistic Regression Learner)
 
 ---
 
