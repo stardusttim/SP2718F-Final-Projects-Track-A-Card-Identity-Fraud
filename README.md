@@ -48,7 +48,6 @@ Complete KNIME workflow containing data preprocessing, feature engineering, chro
 **🗂️ Data** 
 
 \- Expected input file(s): ieee\_cis\_joined\_full.csv   (On Kaggle)
-
 \- Expected settings: Advanced settings: TransactionID → String / isFraud → String  
 ---
 
