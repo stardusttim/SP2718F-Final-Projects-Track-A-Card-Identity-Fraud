@@ -32,7 +32,7 @@ The instructions below is the guidance for running the *Combined final KNIME.knw
 
 **🗂️ Data** 
 
-\- Expected input file(s): ieee\_cis\_joined\_full.csv  
+\- Expected input file(s): ieee\_cis\_joined\_full.csv  (KAGGLE)
 ---
 
 **⚓ Colab Run Order**
