@@ -104,4 +104,4 @@ If TransactionID doesn’t appear in the advanced settings’ list in the Csv Re
 | Zhang Xiaohan |   
 | Zhang Yang | 
 
-For demo video, contact contributers above
+For demo video, contact contributers above.
